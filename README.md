@@ -1,4 +1,4 @@
-🧠 Machine Learning Projects Portfolio – Classification, Regression & EDA
+#🧠 Machine Learning Projects Portfolio – Classification, Regression & EDA
 This repository includes five supervised machine learning projects covering real-world tasks such as predicting credit risk, insurance claims, personal loan acceptance, and more. Each task includes data preprocessing, exploratory analysis, model building, and interpretation using Python.
 
 🔍 Task 1: Exploring and Visualizing a Simple Dataset
