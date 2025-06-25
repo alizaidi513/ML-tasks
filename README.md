@@ -1,7 +1,7 @@
 ### 🧠 Machine Learning Projects Portfolio – Classification, Regression & EDA
 This repository includes five supervised machine learning projects covering real-world tasks such as predicting credit risk, insurance claims, personal loan acceptance, and more. Each task includes data preprocessing, exploratory analysis, model building, and interpretation using Python.
 
-🔍 Task 1: Exploring and Visualizing a Simple Dataset
+### 🔍 Task 1: Exploring and Visualizing a Simple Dataset
 Objective:
 Understand how to load, summarize, and visualize a dataset.
 
@@ -30,7 +30,7 @@ Summary statistics
 
 Visualization using matplotlib and seaborn
 
-💳 Task 2: Credit Risk Prediction
+### 💳 Task 2: Credit Risk Prediction
 Objective:
 Predict whether a loan applicant is likely to default.
 
@@ -57,7 +57,7 @@ Binary classification
 
 Model evaluation
 
-📉 Task 3: Customer Churn Prediction (Bank Customers)
+### 📉 Task 3: Customer Churn Prediction (Bank Customers)
 Objective:
 Identify customers who are likely to leave the bank.
 
@@ -82,7 +82,7 @@ Classification modeling
 
 Model interpretation using feature importance
 
-🏥 Task 4: Predicting Insurance Claim Amounts
+### 🏥 Task 4: Predicting Insurance Claim Amounts
 Objective:
 Estimate medical insurance charges based on personal data.
 
@@ -105,7 +105,7 @@ Feature correlation and visualization
 
 Error evaluation (MAE, RMSE)
 
-🏦 Task 5: Personal Loan Acceptance Prediction
+### 🏦 Task 5: Personal Loan Acceptance Prediction
 Objective:
 Predict which customers are likely to accept a personal loan offer.
 
@@ -128,7 +128,7 @@ Classification modeling
 
 Business insight extraction from model results
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 Python 3
 
 Jupyter Notebook
@@ -139,7 +139,7 @@ Matplotlib / Seaborn – data visualization
 
 Scikit-learn – preprocessing, modeling, evaluation
 
-🚀 How to Run
+### 🚀 How to Run
 Clone this repository:
 
 bash
@@ -153,13 +153,8 @@ bash
 Copy
 Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
-Open and run any notebook:
 
-bash
-Copy
-Edit
-jupyter notebook
-📊 Results Summary
+### 📊 Results Summary
 Task	Type	Key Insight
 Task 1	EDA	Visualized relationships between Iris features
 Task 2	Classification	Income and education affect loan default risk
